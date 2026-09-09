@@ -1,8 +1,8 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
-import { routes } from 'src/playwright/config/routes';
+import { BasePage } from '@playwright-core/base/base.page';
+import { routes } from '@playwright-config/routes';
 import { expect, Page, Locator } from '@playwright/test';
 import { ProductApi, ProductCard, normalizeProductData } from '@playwright-features/products/types/product.type';
-import { compareByKey } from 'src/playwright/shared/utils/comparison/compare-by-key';
+import { compareByKey } from '@playwright-shared/utils/comparison/compare-by-key';
 import { ProductAPI } from '../api/product.api';
 import { CartModalComponent } from '../component/cart-modal.component';
 
@@ -33,7 +33,7 @@ export class ProductsPage extends BasePage {
   // Texts
   private readonly idText = this.page.locator('a').first();
   private readonly nameText = this.page.locator('p').first();
-  private readonly priceText = this.page.locator('Rs.');
+  private readonly priceText = this.page.getByText('Rs.');
   // Images
   private readonly productImage = this.page.locator('img').first();
   // Link
@@ -82,7 +82,10 @@ export class ProductsPage extends BasePage {
     return this.productViewAt(index, view).locator(this.nameText).innerText();
   }
   public async productPrice(index: number, view: ProductView): Promise<string> {
-    return this.productViewAt(index, view).locator(this.priceText).innerText();
+    const priceText = await this.productViewAt(index, view).locator(this.priceText).innerText();
+    console.log(`Product price text at index ${index} in view ${view}: ${priceText}`);
+    return priceText;
+    // return this.productViewAt(index, view).locator(this.priceText).innerText();
   }
   public async clickAddToCartButton(index: number, view: ProductView): Promise<void> {
     await this.productViewAt(index, view).locator(this.addToCartButton).first().click();

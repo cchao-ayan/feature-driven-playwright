@@ -1,5 +1,5 @@
 import { SignupFieldsData, SignupValidationResult } from '@playwright-features/auth/types/index';
-import { validateEmailFormat } from 'src/playwright/shared/types/validators/email.validator';
+import { validateEmailFormat } from '@playwright-shared/types/validators/email.validator';
 
 export function validateSignupInput(data: SignupFieldsData): SignupValidationResult {
     const n = data.name ?? '';

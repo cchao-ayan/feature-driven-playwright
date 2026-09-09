@@ -1,3 +1,4 @@
+// MODEL 
 export interface Product {
   id: string | null;
   name: string;
@@ -12,6 +13,7 @@ export interface ProductDetails extends Product {
   category: string;
 }
 
+// DTO 
 // This model represents the structure of the product data returned by the API, which may have a different structure than the one used in the UI models.
 // The normalizeProductData function is used to convert the API response into the format used by the UI models.
 export interface ProductApi {
@@ -26,6 +28,8 @@ export interface ProductApi {
     category: string;
   };
 }
+
+// MAPPER 
 // This function takes the product data returned by the API and converts it into the format used by the UI models.
 // It handles any necessary transformations, such as converting the id to a string and providing default values for missing fields.
 export function normalizeProductData(api: ProductApi): ProductDetails {

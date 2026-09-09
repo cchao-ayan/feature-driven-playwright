@@ -1,7 +1,7 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
+import { BasePage } from '@playwright-core/base/base.page';
 import { expect, Page, Locator } from '@playwright/test';
-import { routes } from 'src/playwright/config/routes';
-import { assertTextEquals } from 'src/playwright/shared/assertion/generic';
+import { routes } from '@playwright-config/routes';
+import { assertTextEquals } from '@playwright-shared/assertion/generic';
 import { SignupFormFields, InvalidSignupFormTestData, SignupFormValidationResult, SignupFormTestData } from '@playwright-features/auth/types/index';
 
 export class SignUpPage extends BasePage {

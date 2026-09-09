@@ -1,5 +1,5 @@
 import { Page } from '@playwright/test';
-import { Logger } from 'src/playwright/shared/utils/logger/logger';
+import { Logger } from '@playwright-shared/utils/logger/logger';
 
 export class AdHandler {
   private handlersRegistered = false;

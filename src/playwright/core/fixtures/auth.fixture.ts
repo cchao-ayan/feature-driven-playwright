@@ -1,6 +1,7 @@
 import {test as base} from '@playwright/test';
-import { POManager } from 'src/playwright/core/managers/pom.manager';
-import { paths } from 'src/playwright/config/paths';
+import { POManager } from '@playwright-core/managers/pom.manager';
+import { paths } from '@playwright-config/paths';
+import { allure } from 'allure-playwright';
 
 const authStatePath = paths.setup.storageState;
 

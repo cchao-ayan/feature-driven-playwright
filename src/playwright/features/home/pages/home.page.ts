@@ -1,6 +1,6 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
+import { BasePage } from '@playwright-core/base/base.page';
 import { expect, Page } from '@playwright/test';
-import { routes } from 'src/playwright/config/routes';
+import { routes } from '@playwright-config/routes';
 
 export class HomePage extends BasePage {
 

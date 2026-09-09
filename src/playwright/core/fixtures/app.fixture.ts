@@ -1,7 +1,8 @@
 import { test as base } from '@playwright/test';
-import { POManager } from 'src/playwright/core/managers/pom.manager';
-import { APIManager } from 'src/playwright/core/managers/api.manager';
-//import { FlowManager } from '@core/managers/flow.manager';
+import { POManager } from '@playwright-core/managers/pom.manager';
+import { APIManager } from '@playwright-core/managers/api.manager';
+import { allure } from 'allure-playwright';
+//import { FlowManager } from '@playwright-core/managers/flow.manager';
 
 type MyFixtures = {
   pom: POManager;

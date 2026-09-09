@@ -1,5 +1,5 @@
-import { EmailValidationType } from "src/playwright/shared/types/validations/email-validation.type";
-import { ValidationResult } from "src/playwright/shared/types/validations/validation.type";
+import { EmailValidationType } from "@playwright-shared/types/validations/email-validation.type";
+import { ValidationResult } from "@playwright-shared/types/validations/validation.type";
 
 // ======================================================================//
 // ===============       Login Types and Interfaces       ===============//

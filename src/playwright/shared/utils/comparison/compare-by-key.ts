@@ -1,5 +1,5 @@
 import { expect } from '@playwright/test';
-import { Logger } from 'src/playwright/shared/utils/logger/logger';
+import { Logger } from '@playwright-shared/utils/logger/logger';
 
 export function compareByKey<T, K extends keyof T>(
   actual: T | T[],
@@ -45,8 +45,8 @@ export function compareByKey<T, K extends keyof T>(
   //  OBJECT CASE
   const actObj = actual as T;
   const expObj = expected as T;
-  Logger.info(`Comparing objects`);
 
+  Logger.info(`Comparing objects`);
   Logger.info(`Actual: ${JSON.stringify(actObj)}`);
   Logger.info(`Expected: ${JSON.stringify(expObj)}`);
 

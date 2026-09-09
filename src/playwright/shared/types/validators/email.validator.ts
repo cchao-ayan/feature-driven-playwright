@@ -1,5 +1,5 @@
-import { getFirstSpecialCharacterAfterAt } from "src/playwright/shared/utils/data/data-helper";
-import { EmailValidationType } from "src/playwright/shared/types/validations/email-validation.type";
+import { getFirstSpecialCharacterAfterAt } from "@playwright-shared/utils/data/data-helper";
+import { EmailValidationType } from "@playwright-shared/types/validations/email-validation.type";
 
 export function validateEmailFormat(email: string): { type: EmailValidationType, message: string } | undefined {
     if (!email) {

@@ -1,6 +1,6 @@
 import { Locator, expect } from '@playwright/test';
-import { assertErrorMessage } from 'src/playwright/core/base/base.page';
-import { FooterValidationResult, InvalidFooterEmailTestData } from 'src/playwright/shared/components/footer/footer.type';
+import { assertErrorMessage } from '@playwright-core/base/base.page';
+import { FooterValidationResult, InvalidFooterEmailTestData } from '@playwright-shared/components/footer/footer.type';
 
 export class FooterComponent {
   constructor(private readonly root: Locator) { }

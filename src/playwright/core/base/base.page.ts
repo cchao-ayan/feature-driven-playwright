@@ -1,6 +1,6 @@
 import { Page, Locator, expect } from '@playwright/test';
-import { FooterComponent, HeaderComponent } from 'src/playwright/shared/components';
-import { AdHandler } from 'src/playwright/shared/utils/browser/ads-handler';
+import { FooterComponent, HeaderComponent } from '@playwright-shared/components';
+import { AdHandler } from '@playwright-shared/utils/browser/ads-handler';
 
 export abstract class BasePage {
   private _footer?: FooterComponent;

@@ -1,5 +1,5 @@
-import { validateEmailFormat } from 'src/playwright/shared/types/validators/email.validator';
-import { FooterFieldData, FooterValidationResult } from 'src/playwright/shared/components/footer/footer.type';
+import { validateEmailFormat } from '@playwright-shared/types/validators/email.validator';
+import { FooterFieldData, FooterValidationResult } from '@playwright-shared/components/footer/footer.type';
 
 export function validateFooterInput(data: FooterFieldData): FooterValidationResult {
     const e = data.email ?? '';

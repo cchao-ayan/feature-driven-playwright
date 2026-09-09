@@ -1,10 +1,10 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
+import { BasePage } from '@playwright-core/base/base.page';
 import { normalizeProductData } from '@playwright-features/products/types/product.type';
-import products from '@playwright-features/products/datas/products.test-data.json';
 import { Page, expect } from '@playwright/test';
+import { ProductAPI } from '../api/product.api';
 import { ProductDetails } from '@playwright-features/products/types/product.type';
-import { compareByKey } from 'src/playwright/shared/utils';
-import { routes } from 'src/playwright/config/routes';
+import { compareByKey } from '@playwright-shared/utils';
+import { routes } from '@playwright-config/routes';
 
 export class ProductDetailsPage extends BasePage {
 
@@ -90,12 +90,6 @@ export class ProductDetailsPage extends BasePage {
   // ======================
   // Helper Methods
   // ======================
-  public async compareProductDetailsWithTestData(index: number): Promise<void> {
-    const actual = await this.readCardDetailsFromUI();
-    const expected = normalizeProductData(products[index]);
-    compareByKey(actual, expected, ['id', 'name', 'price', 'brand', 'usertype', 'category']);
-  }
-
   private async readCardDetailsFromUI(): Promise<ProductDetails> {
     return {
       id: await this.getProductID(),
@@ -105,5 +99,18 @@ export class ProductDetailsPage extends BasePage {
       usertype: await this.getProductUsertype(),
       category: await this.getProductCategory(),
     };
+  }
+
+    public async compareProductDetailsWithApi(index: number): Promise<void> {
+    const ui = await this.readCardDetailsFromUI();
+    const products = await new ProductAPI(this.page.request).getAllProducts();
+    
+        const product = products.find((p) => String(p.id) === ui.id);
+        if (!product) {
+          throw new Error(`Product with ID ${ui.id} not found in API response`);
+        }
+    
+        const api = normalizeProductData(product);
+    compareByKey(ui, api, ['id', 'name', 'price', 'brand', 'usertype', 'category']);
   }
 }

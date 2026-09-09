@@ -1,6 +1,6 @@
-import { test } from 'src/playwright/core/fixtures/app.fixture';
-import { DataReader } from 'src/playwright/shared/utils/data/data-reader';
-import { paths } from 'src/playwright/config/paths';
+import { test } from '@playwright-core/fixtures/app.fixture';
+import { DataReader } from '@playwright-shared/utils/data/data-reader';
+import { paths } from '@playwright-config/paths';
 import { validateLoginInput, validateSignupInput } from '@playwright-features/auth/utils/index';
 import { InvalidLoginTestData, InvalidSignupTestData } from '@playwright-features/auth/types/index';
 import { feature} from 'allure-js-commons';

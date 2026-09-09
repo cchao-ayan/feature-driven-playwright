@@ -18,7 +18,7 @@
     "strict": true,
 
     // Use Node.js module resolution strategy
-    // "moduleResolution": "node",
+    "moduleResolution": "node",
 
     // Enable ES module/CommonJS interoperability
     "esModuleInterop": true,
@@ -37,7 +37,6 @@
 
     // Include type definitions for Node.js and @playwright/test
     "types": ["node", "@playwright/test"],
-    "ignoreDeprecations": "6.0",
     "baseUrl": ".",
     // Path alias: @/ maps to src/
     "paths": {

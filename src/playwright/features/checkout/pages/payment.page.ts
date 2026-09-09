@@ -1,5 +1,5 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
-import { routes } from 'src/playwright/config/routes';
+import { BasePage } from '@playwright-core/base/base.page';
+import { routes } from '@playwright-config/routes';
 import { Page, Locator, expect } from '@playwright/test';
 import { cardDetailFields, CardDetailFields, CardDetails } from '../types/card-details.type';
 

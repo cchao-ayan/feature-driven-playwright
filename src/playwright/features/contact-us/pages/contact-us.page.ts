@@ -1,7 +1,7 @@
-import { BasePage } from 'src/playwright/core/base/base.page';
+import { BasePage } from '@playwright-core/base/base.page';
 import * as validTestData from '@playwright-features/contact-us/datas/valid.test-data.json'
-import { routes } from 'src/playwright/config/routes';
-import { paths } from 'src/playwright/config/paths';
+import { routes } from '@playwright-config/routes';
+import { paths } from '@playwright-config/paths';
 import { Page, expect } from '@playwright/test';
 
 export class ContactUsPage extends BasePage {
