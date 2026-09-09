@@ -17,8 +17,8 @@
     // Enable strict type checking for better code quality and fewer runtime errors
     "strict": true,
 
-    // Use Node.js module resolution strategy
-    "moduleResolution": "node",
+    // Use bundler module resolution strategy (modern replacement for deprecated "node")
+    "moduleResolution": "bundler",
 
     // Enable ES module/CommonJS interoperability
     "esModuleInterop": true,
@@ -37,6 +37,10 @@
 
     // Include type definitions for Node.js and @playwright/test
     "types": ["node", "@playwright/test"],
+    
+    // Silence deprecation warnings for TypeScript 6.0 while using baseUrl with paths
+    "ignoreDeprecations": "6.0",
+    
     "baseUrl": ".",
     // Path alias: @/ maps to src/
     "paths": {
