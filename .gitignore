@@ -12,3 +12,7 @@ node_modules/
 test-report/
 /allure-report
 /allure-results
+/results/
+/dist/
+.nyc_output/
+coverage/
