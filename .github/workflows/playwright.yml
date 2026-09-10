@@ -38,18 +38,9 @@ jobs:
 
       - name: Auth Setup - Create Storage State
         run: npm run pw:setup
-      
-      - name: Run Playwright tests - Login Functionality
-        run: npm run pw:login
 
-      - name: Run Playwright tests - Signup Functionality
-        run: npm run pw:signup
-      
-      - name: Run Playwright tests - Footer Functionality
-        run: npm run pw:footer
-
-      - name: Run Playwright tests - end-to-end scenario
-        run: npm run pw:scenario
+      - name: Run Playwright tests
+        run: npx playwright test tests/ui tests/e2e
       
       - name: Upload Playwright Test Results
         if: always()
@@ -76,6 +67,10 @@ jobs:
           find results/playwright/test-results/allure-results -type f
           echo "=== Count of result JSON files ==="
           find results/playwright/test-results/allure-results -name "*-result.json" | wc -l
+      
+      - name: Debug - Count allure result files
+        if: always()
+        run: find results/playwright/test-results/allure-results -name "*-result.json" | wc -l
 
       - name: Generate Allure Report
         if: always()
