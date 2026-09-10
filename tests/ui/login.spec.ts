@@ -5,13 +5,12 @@ import { validateLoginInput, validateSignupInput } from '@playwright-features/au
 import { InvalidLoginTestData, InvalidSignupTestData } from '@playwright-features/auth/types/index';
 import { feature} from 'allure-js-commons';
 
-feature('Login and Signup Invalid Validations');
-
 const invalidLoginData = DataReader.read<InvalidLoginTestData>(paths.data.login.invalidLoginInput);
 const invalidSignupFormData = DataReader.read<InvalidSignupTestData>(paths.data.signup.invalidSignupInput);
 
 test.describe('Login Functionality', () => {
     test.beforeEach(async ({ pom }) => {
+        feature('Login and Signup Invalid Validations');
         await pom.homePage.navigateToHomePage();
         await pom.homePage.assertPageLoaded();
         await pom.homePage.header.clickSignupLoginLink();

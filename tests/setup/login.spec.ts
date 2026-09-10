@@ -4,12 +4,11 @@ import { paths } from '@playwright-config/paths';
 import { RegisteredUser } from '@playwright-features/auth/types/login.type';
 import { feature, story, step } from 'allure-js-commons';
 
-feature('Authentication');
-story('Login setup');
-
 const data = DataReader.read<RegisteredUser>(paths.data.login.registeredUsers);
 
 test('Storing login session to be used in test scenarios', async ({ pom, page }) => {
+    feature('Authentication');
+    story('Login setup');
     await step('Open the Home page', async () => {
         await pom.homePage.navigateToHomePage();
         await pom.homePage.assertPageLoaded();

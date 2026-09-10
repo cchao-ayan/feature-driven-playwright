@@ -18,7 +18,7 @@ export default defineConfig({
   testDir: './tests',
   testMatch: '**/*.spec.ts',
   globalSetup: './playwright.setup.ts',
-  /* Run tests in files in parallel */
+  /* if true then tests will be run in parallel (fast) else false then tests will be run sequentially (slow) */
   fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,

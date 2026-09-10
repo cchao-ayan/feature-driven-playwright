@@ -1,6 +1,6 @@
 import { BasePage } from '@playwright-core/base/base.page';
 import { routes } from '@playwright-config/routes';
-import { Page, Locator, expect } from '@playwright/test';
+import { Page, Locator, expect, Response } from '@playwright/test';
 import { cardDetailFields, CardDetailFields, CardDetails } from '../types/card-details.type';
 
 export class PaymentPage extends BasePage {
@@ -37,9 +37,11 @@ export class PaymentPage extends BasePage {
         await expect(this.paymentBreadCrumb).toBeVisible();
         await expect(this.paymentHeading).toBeVisible();
     }
-    public async clickPayAndConfirmOrderButton(): Promise<void> {
+    public async clickPayAndConfirmOrderButton(): Promise <Response> {
+        const responsePromise = this.page.waitForResponse(response => response.url().includes('/payment') && response.request().method() === 'POST');
         await this.payAndConfirmOrderButton.click();
-        await expect(this.successAlertText).not.toBeVisible(); // Playwright cannot verify that the alert message is visible since it the button uses POST method thus page is destroyed
+        return responsePromise;
+        //await expect(this.successAlertText).not.toBeVisible(); // Playwright cannot verify that the alert message is visible since it the button uses POST method thus page is destroyed
     }
     public async enterCardDetails(data: CardDetails): Promise<void> {
         for (const field of cardDetailFields) {

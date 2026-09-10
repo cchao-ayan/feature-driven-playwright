@@ -83,7 +83,7 @@ export class ProductsPage extends BasePage {
   }
   public async productPrice(index: number, view: ProductView): Promise<string> {
     const priceText = await this.productViewAt(index, view).locator(this.priceText).innerText();
-    console.log(`Product price text at index ${index} in view ${view}: ${priceText}`);
+    //console.log(`Product price text at index ${index} in view ${view}: ${priceText}`);
     return priceText;
     // return this.productViewAt(index, view).locator(this.priceText).innerText();
   }

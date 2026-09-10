@@ -5,12 +5,11 @@ import { validateSignupFormInput } from '@playwright-features/auth/utils/signup-
 import { InvalidSignupFormTestData } from '@playwright-features/auth/types/signup-form.type';
 import { feature} from 'allure-js-commons';
 
-feature('Register Invalid Validations');
-
 const data = DataReader.read<InvalidSignupFormTestData>(paths.data.signup.invalidSignupFormInput);
 
 test.describe('Signup Functionality', () => {
     test.beforeEach(async ({ pom }) => {
+        feature('Register Invalid Validations');
         await pom.homePage.navigateToHomePage();
         await pom.homePage.assertPageLoaded();
         await pom.homePage.header.clickSignupLoginLink();
