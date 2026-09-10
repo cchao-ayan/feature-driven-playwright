@@ -74,11 +74,11 @@ jobs:
         run: |
           ls -la node_modules/allure-commandline/dist/ 2>/dev/null || echo "Allure CLI dist folder missing!"
           npx allure --version
-            - name: Generate Allure Report
-              if: always()
-              run: |
-                npx allure generate results/playwright/test-results/allure-results --clean -o results/playwright/test-results/allure-report
-              fi
+
+      - name: Generate Allure Report
+        if: always()
+        run: |
+          npx allure generate results/playwright/test-results/allure-results --clean -o results/playwright/test-results/allure-report              
 
       - name: Deploy Report
         if: always()
