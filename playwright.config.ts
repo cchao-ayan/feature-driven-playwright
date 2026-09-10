@@ -35,7 +35,7 @@ export default defineConfig({
      [
       'allure-playwright',
       {
-        outputFolder: path.resolve(__dirname, 'results', 'playwright', 'test-results', 'allure-results'),
+        resultsDir: path.resolve(__dirname, 'results', 'playwright', 'test-results', 'allure-results'), // ✅ correct for v3.x
         detail: true,
         suiteTitle: false,
       },
