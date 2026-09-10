@@ -68,7 +68,7 @@ jobs:
             mkdir -p results/playwright/test-results/allure-results/history
             cp -r gh-pages/history/* results/playwright/test-results/allure-results/history/
           fi
-          
+
       - name: Debug - Check allure binary
         if: always()
         run: |
@@ -78,6 +78,7 @@ jobs:
               if: always()
               run: |
                 npx allure generate results/playwright/test-results/allure-results --clean -o results/playwright/test-results/allure-report
+              fi
 
       - name: Deploy Report
         if: always()
