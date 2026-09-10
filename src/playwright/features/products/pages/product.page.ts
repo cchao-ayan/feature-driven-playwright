@@ -44,6 +44,7 @@ export class ProductsPage extends BasePage {
   private readonly perPoductContainer = this.page.locator('.col-sm-4');
   private readonly productInfo = this.page.locator('.productinfo');
   private readonly productOverlay = this.page.locator('.product-overlay');
+  private readonly productOverlayContent = this.page.locator('.overlay-content');
 
   // ======================
   // State Methods
@@ -88,6 +89,7 @@ export class ProductsPage extends BasePage {
     // return this.productViewAt(index, view).locator(this.priceText).innerText();
   }
   public async clickAddToCartButton(index: number, view: ProductView): Promise<void> {
+    await expect(this.productViewAt(index, view).locator(this.addToCartButton).first()).toBeVisible();
     await this.productViewAt(index, view).locator(this.addToCartButton).first().click();
   }
   public async clickViewProductButton(index: number): Promise<void> {
