@@ -72,8 +72,10 @@ jobs:
       - name: Debug - Check allure binary
         if: always()
         run: |
-          ls -la node_modules/allure-commandline/dist/ 2>/dev/null || echo "Allure CLI dist folder missing!"
-          npx allure --version
+          echo "=== Full contents ==="
+          find results/playwright/test-results/allure-results -type f
+          echo "=== Count of result JSON files ==="
+          find results/playwright/test-results/allure-results -name "*-result.json" | wc -l
 
       - name: Generate Allure Report
         if: always()
