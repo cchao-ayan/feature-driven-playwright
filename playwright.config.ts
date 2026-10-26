@@ -19,13 +19,13 @@ export default defineConfig({
   testMatch: '**/*.spec.ts',
   globalSetup: './playwright.setup.ts',
   /* if true then tests will be run in parallel (fast) else false then tests will be run sequentially (slow) */
-  fullyParallel: true,
+  fullyParallel: false,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
   /* Retry on CI only */
   retries: 0,
   /* Opt out of parallel tests on CI. */
-  workers: process.env.CI ? 2 : '50%',
+  workers: process.env.CI ? 1 : '50%',
   /* Timeout per test in milliseconds (120 seconds per test, override per-test with test.setTimeout) */
   //timeout: 120_000,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
