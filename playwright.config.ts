@@ -18,7 +18,7 @@ import path from 'path';
 export default defineConfig({
   testDir: './tests',
   testMatch: '**/*.spec.ts',
-  testIgnore: '**/setup/**',
+  //testIgnore: '**/setup/**',
   globalSetup: './playwright.setup.ts',
   /* if true then tests will be run in parallel (fast) else false then tests will be run sequentially (slow) */
   fullyParallel: true,
