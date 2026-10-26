@@ -39,8 +39,17 @@ jobs:
       - name: Auth Setup - Create Storage State
         run: npm run pw:setup
 
-      - name: Run Playwright tests
-        run: npx playwright test tests/ui tests/e2e
+      - name: Run Login Test
+        run: npm run pw:login
+
+      - name: Run Signup Test
+        run: npm run pw:signup
+
+      - name: Run Footer Test
+        run: npm run pw:footer
+
+      - name: Run Scenario Test
+        run: npm run pw:scenario
       
       - name: Upload Playwright Test Results
         if: always()

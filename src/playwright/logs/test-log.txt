@@ -44541,3 +44541,6597 @@
 [2026-10-26T07:43:02.761Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
 [2026-10-26T07:43:03.043Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
 [2026-10-26T07:43:03.338Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:21:37.625Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:21:41.447Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:21:45.025Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:16.232Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:22:17.561Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:18.045Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:18.050Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:18.059Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:18.258Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:21.494Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:22.913Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:23.088Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:23.883Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:24.570Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:24.839Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:25.018Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:26.210Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:22:26.212Z] [INFO] Comparing objects
+[2026-10-26T12:22:26.213Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T12:22:26.213Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T12:22:28.338Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:28.617Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:28.720Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:29.421Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:31.044Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:32.436Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:32.473Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:33.281Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:34.468Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:37.082Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:38.906Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:40.225Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:40.497Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:41.191Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:42.985Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:44.900Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:45.113Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:47.597Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:47.669Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:48.228Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:49.025Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:22:49.026Z] [INFO] Comparing objects
+[2026-10-26T12:22:49.026Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T12:22:49.026Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T12:22:49.770Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:52.272Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:52.368Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:53.266Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:53.289Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:53.403Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:54.876Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:55.065Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:56.220Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:56.667Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:58.243Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:22:59.372Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:00.551Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:02.258Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:02.868Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:03.573Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:06.431Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:09.941Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:10.927Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:13.819Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:17.579Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:19.075Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:21.445Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:23.960Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:24.641Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:35.725Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:48.273Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:51.020Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:53.926Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:23:56.225Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:00.259Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:02.027Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:05.723Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:07.532Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:10.214Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:12.340Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:15.316Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:19.364Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:44.964Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:50.143Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:53.114Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:54.935Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:57.945Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:24:59.526Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:02.458Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:04.227Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:08.628Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:10.892Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:13.845Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:25:15.153Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:29.674Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:32:29.843Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:30.307Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:30.767Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:30.995Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:31.177Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:31.311Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:32.402Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:33.985Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:35.907Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:36.102Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:36.900Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:37.321Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:38.940Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:39.345Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:32:39.346Z] [INFO] Comparing objects
+[2026-10-26T12:32:39.347Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T12:32:39.347Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T12:32:40.162Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:40.642Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T12:32:40.643Z] [INFO] Comparing objects
+[2026-10-26T12:32:40.644Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T12:32:40.644Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T12:32:40.654Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:41.064Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:41.311Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:41.565Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:42.233Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:42.691Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:42.887Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:42.981Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:43.108Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:43.834Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:44.081Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:44.319Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:45.134Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:45.293Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:45.378Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:46.072Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:46.183Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:47.318Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:47.345Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:47.392Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:48.107Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:48.306Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:49.523Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:49.579Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:50.372Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:50.495Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:51.023Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:51.578Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:53.041Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:53.302Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:53.373Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:54.559Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:55.464Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:55.503Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:56.879Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:57.176Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:57.314Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:58.064Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:58.477Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:59.321Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:32:59.782Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:00.256Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:01.421Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:01.873Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:02.600Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:03.793Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:04.002Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:04.175Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:04.616Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:04.687Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:04.858Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:05.372Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:05.692Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:07.071Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:08.046Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:08.430Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:08.471Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:10.047Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:10.717Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:11.529Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:11.592Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:12.296Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:12.298Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:13.027Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:15.144Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:17.148Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:17.717Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:23.506Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:33:25.555Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T12:38:15.148Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:02:27.035Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:02:30.767Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:30.787Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:30.834Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:30.853Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:30.918Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:30.936Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:34.399Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:36.908Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:37.284Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:37.304Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:37.582Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:37.939Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:38.851Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:38.987Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:02:38.989Z] [INFO] Comparing objects
+[2026-10-26T13:02:38.989Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T13:02:38.990Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T13:02:39.666Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:02:39.667Z] [INFO] Comparing objects
+[2026-10-26T13:02:39.667Z] [INFO] Actual: {"id":"1","name":"Blue Top","price":"Rs. 500"}
+[2026-10-26T13:02:39.667Z] [INFO] Expected: {"id":"1","name":"Blue Top","price":"Rs. 500","brand":"Polo","usertype":"Women","category":"Tops"}
+[2026-10-26T13:02:41.301Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:41.512Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:42.000Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:42.177Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:42.439Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:42.889Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:43.079Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:44.213Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:44.246Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:44.464Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:44.872Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:44.967Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:46.347Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:46.348Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:46.857Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:46.880Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:48.390Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:49.161Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:49.757Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:49.786Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:50.702Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:50.880Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:52.071Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:52.580Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:53.381Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:53.636Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:54.222Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:55.211Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:55.569Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:55.689Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:55.817Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:57.313Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:57.989Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:58.096Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:58.530Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:58.618Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:02:59.543Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:00.761Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:01.164Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:01.168Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:01.309Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:03.095Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:03.584Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:03.720Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:04.214Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:05.195Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:05.579Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:05.747Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:06.545Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:06.767Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:06.793Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:06.992Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:07.414Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:07.535Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:09.183Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:09.963Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:10.259Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:10.483Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:10.624Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:10.899Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:12.461Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:14.971Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:14.994Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:15.406Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:15.693Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:15.783Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:03:16.064Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:18.606Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:18.628Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:20.796Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:22.010Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:22.222Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:23.089Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:07:23.090Z] [INFO] Comparing objects
+[2026-10-26T13:07:23.090Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T13:07:23.090Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T13:07:24.876Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:25.463Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:26.654Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:28.804Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:29.290Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:31.537Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:32.689Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:07:32.689Z] [INFO] Comparing objects
+[2026-10-26T13:07:32.689Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T13:07:32.690Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T13:07:33.623Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:34.085Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:34.905Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:37.715Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:38.531Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.133Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.204Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.245Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.289Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.302Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:55.346Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:59.665Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:07:59.709Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:00.164Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:00.242Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:00.909Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:00.951Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:01.052Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:02.047Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:02.175Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:02.429Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:02.658Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:02.758Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:03.149Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:04.870Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:05.111Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:06.289Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:06.406Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:07.051Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:07.638Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:08.511Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:08.969Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:09.752Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:09.890Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:09.893Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:10.774Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:11.148Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:12.073Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:12.805Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:12.870Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:14.863Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:15.058Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:15.806Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:15.833Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:15.963Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.157Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.375Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.471Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.602Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.606Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:45.607Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:48.730Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:49.494Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:50.148Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:50.463Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:51.224Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:51.275Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:51.476Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:51.753Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:52.099Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:52.431Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:52.542Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:53.049Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:53.901Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:56.121Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:56.644Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:57.702Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:58.145Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:08:58.867Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:09:52.560Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:09:52.779Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:09:52.780Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:09:52.825Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:09:52.859Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:37.446Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:13:38.477Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:38.865Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:38.924Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:39.056Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:39.066Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:39.111Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:43.334Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:45.976Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:46.202Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:47.798Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:48.184Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:13:48.185Z] [INFO] Comparing objects
+[2026-10-26T13:13:48.185Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T13:13:48.186Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T13:13:48.289Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:48.300Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:48.388Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:50.201Z] [INFO] API Response: [
+  {
+    "id": 1,
+    "name": "Blue Top",
+    "price": "Rs. 500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Men Tshirt",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Sleeveless Dress",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stylish Dress",
+    "price": "Rs. 1500",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Winter Top",
+    "price": "Rs. 600",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Summer White Top",
+    "price": "Rs. 400",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Madame Top For Women",
+    "price": "Rs. 1000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Fancy Green Top",
+    "price": "Rs. 700",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Sleeves Printed Top - White",
+    "price": "Rs. 499",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Half Sleeves Top Schiffli Detailing - Pink",
+    "price": "Rs. 359",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Frozen Tops For Kids",
+    "price": "Rs. 278",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Full Sleeves Top Cherry - Pink",
+    "price": "Rs. 679",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Printed Off Shoulder Top - White",
+    "price": "Rs. 315",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Sleeves Top and Short - Blue & Pink",
+    "price": "Rs. 478",
+    "brand": "Babyhug",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Little Girls Mr. Panda Shirt",
+    "price": "Rs. 1200",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Sleeveless Unicorn Patch Gown - Pink",
+    "price": "Rs. 1050",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Cotton Mull Embroidered Dress",
+    "price": "Rs. 1190",
+    "brand": "Kookie Kids",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Blue Cotton Indie Mickey Dress",
+    "price": "Rs. 1530",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Long Maxi Tulle Fancy Dress Up Outfits -Pink",
+    "price": "Rs. 1600",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Sleeveless Unicorn Print Fit & Flare Net Dress - Multi",
+    "price": "Rs. 1100",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Colour Blocked Shirt – Sky Blue",
+    "price": "Rs. 849",
+    "brand": "Allen Solly Junior",
+    "category": {
+      "usertype": {
+        "usertype": "Kids"
+      },
+      "category": "Tops & Shirts"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Pure Cotton V-Neck T-Shirt",
+    "price": "Rs. 1299",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 29,
+    "name": "Green Side Placket Detail T-Shirt",
+    "price": "Rs. 1000",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Premium Polo T-Shirts",
+    "price": "Rs. 1500",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 31,
+    "name": "Pure Cotton Neon Green Tshirt",
+    "price": "Rs. 850",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Soft Stretch Jeans",
+    "price": "Rs. 799",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 35,
+    "name": "Regular Fit Straight Jeans",
+    "price": "Rs. 1200",
+    "brand": "H&M",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 37,
+    "name": "Grunt Blue Slim Fit Jeans",
+    "price": "Rs. 1400",
+    "brand": "Polo",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Jeans"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Rose Pink Embroidered Maxi Dress",
+    "price": "Rs. 2300",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Dress"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Cotton Silk Hand Block Print Saree",
+    "price": "Rs. 3000",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 40,
+    "name": "Rust Red Linen Saree",
+    "price": "Rs. 3500",
+    "brand": "Biba",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 41,
+    "name": "Beautiful Peacock Blue Cotton Linen Saree",
+    "price": "Rs. 5000",
+    "brand": "Madame",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Saree"
+    }
+  },
+  {
+    "id": 42,
+    "name": "Lace Top For Women",
+    "price": "Rs. 1400",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Women"
+      },
+      "category": "Tops"
+    }
+  },
+  {
+    "id": 43,
+    "name": "GRAPHIC DESIGN MEN T SHIRT - BLUE",
+    "price": "Rs. 1389",
+    "brand": "Mast & Harbour",
+    "category": {
+      "usertype": {
+        "usertype": "Men"
+      },
+      "category": "Tshirts"
+    }
+  }
+]
+[2026-10-26T13:13:50.203Z] [INFO] Comparing objects
+[2026-10-26T13:13:50.204Z] [INFO] Actual: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000"}
+[2026-10-26T13:13:50.204Z] [INFO] Expected: {"id":"3","name":"Sleeveless Dress","price":"Rs. 1000","brand":"Madame","usertype":"Women","category":"Dress"}
+[2026-10-26T13:13:50.694Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:50.868Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:51.640Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:51.774Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:53.219Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:53.840Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:54.952Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:55.665Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:55.678Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:55.771Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:56.932Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:57.038Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:57.204Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:57.217Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:59.420Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:59.719Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:13:59.737Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:00.303Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:02.092Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:02.410Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:04.759Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:05.279Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:05.284Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:06.533Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:07.656Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:09.139Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:09.482Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:09.502Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:10.517Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:12.346Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:13.762Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:13.859Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:15.106Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:15.363Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:17.243Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:17.333Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:17.672Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:19.128Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:19.264Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:21.343Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:22.231Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:23.305Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:23.426Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:23.842Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:26.794Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:27.057Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:27.058Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:27.210Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:27.948Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:28.419Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:28.754Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:29.642Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:30.096Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:30.121Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:30.746Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:30.847Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:30.904Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:31.705Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:32.242Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:33.783Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:33.962Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:34.330Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:34.434Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:34.850Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:35.076Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:35.845Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:37.258Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019
+[2026-10-26T13:14:39.448Z] [INFO] Blocking ad request: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1677597403311019

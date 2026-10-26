@@ -4,7 +4,7 @@
   "description": "Playwright TypeScript test automation project for automationexercise.com",
   "main": "index.js",
   "scripts": {
-    "pw:run": "playwright test",
+    "pw:test": "playwright test",
     "pw:ui": "playwright test --ui",
     "pw:api": "playwright test tests/api/test.spec.ts",
     "pw:setup": "playwright test tests/setup/login.spec.ts",
@@ -32,6 +32,7 @@
     "node": "24"
   },
   "devDependencies": {
+    "@playwright/test": "^1.64.1",
     "@types/node": "^24.10.1",
     "@typescript-eslint/eslint-plugin": "^8.58.2",
     "@typescript-eslint/parser": "^8.58.2",
@@ -42,10 +43,9 @@
     "typescript": "^6.0.0"
   },
   "dependencies": {
-    "@playwright/test": "^1.58.2",
     "allure-commandline": "^2.43.0",
     "allure-playwright": "^3.10.1",
-    "csv-parse": "^6.2.1",
+    "csv-parse": "^7.0.3",
     "dotenv": "^17.2.3",
     "tsconfig-paths": "^4.2.0",
     "xlsx": "^0.18.5"

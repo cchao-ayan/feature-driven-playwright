@@ -1,4 +1,5 @@
 import { defineConfig, devices } from '@playwright/test';
+import { truncate } from 'fs/promises';
 import path from 'path';
 // import dotenv from 'dotenv';
 
@@ -17,9 +18,10 @@ import path from 'path';
 export default defineConfig({
   testDir: './tests',
   testMatch: '**/*.spec.ts',
+  testIgnore: '**/setup/**',
   globalSetup: './playwright.setup.ts',
   /* if true then tests will be run in parallel (fast) else false then tests will be run sequentially (slow) */
-  fullyParallel: false,
+  fullyParallel: true,
   /* Fail the build on CI if you accidentally left test.only in the source code. */
   forbidOnly: !!process.env.CI,
   /* Retry on CI only */
@@ -32,7 +34,7 @@ export default defineConfig({
   reporter: [
     ['list'],
     ['html'],
-     [
+    [
       'allure-playwright',
       {
         resultsDir: path.resolve(__dirname, 'results', 'playwright', 'test-results', 'allure-results'), // ✅ correct for v3.x
@@ -108,4 +110,5 @@ export default defineConfig({
   //   url: 'http://localhost:3000',
   //   reuseExistingServer: !process.env.CI,
   // },
+
 });
