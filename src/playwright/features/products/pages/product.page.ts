@@ -43,8 +43,7 @@ export class ProductsPage extends BasePage {
   private readonly productsContainer = this.page.locator('.features_items');
   private readonly perPoductContainer = this.page.locator('.col-sm-4');
   private readonly productInfo = this.page.locator('.productinfo');
-  private readonly productOverlay = this.page.locator('.product-overlay');
-  private readonly productOverlayContent = this.page.locator('.overlay-content');
+  private readonly productOverlay = this.page.locator('.product-overlay').locator('.overlay-content');
 
   // ======================
   // State Methods
@@ -60,7 +59,8 @@ export class ProductsPage extends BasePage {
   // Action Methods
   // ======================
   public productAt(index: number): Locator {
-    return this.productsContainer.locator(this.perPoductContainer).nth(index); // locator('.features_items').locator('.col-sm-4')
+    const productAt = this.productsContainer.locator(this.perPoductContainer).nth(index); // locator('.features_items').locator('.col-sm-4').locator('product-image-wrapper').nth(index);
+    return productAt;
   }
   public productViewAt(index: number, view: ProductView): Locator {
     return view === 'info'
@@ -75,9 +75,10 @@ export class ProductsPage extends BasePage {
     // return this.productAt(index);
   }
   public async productID(index: number, view: ProductView): Promise<string | null> {
-    return this.productViewAt(index, view)
+    const idText = this.productViewAt(index, view)
       .locator(this.idText)
       .getAttribute('data-product-id');
+    return idText;
   }
   public async productName(index: number, view: ProductView): Promise<string> {
     return this.productViewAt(index, view).locator(this.nameText).innerText();
@@ -89,9 +90,17 @@ export class ProductsPage extends BasePage {
     // return this.productViewAt(index, view).locator(this.priceText).innerText();
   }
   public async clickAddToCartButton(index: number, view: ProductView): Promise<void> {
-    await expect(this.productViewAt(index, view).locator(this.addToCartButton).first()).toBeVisible();
-    await this.productViewAt(index, view).locator(this.addToCartButton).first().click();
+    if (view === 'info') {
+      await this.productViewAt(index, view).locator(this.addToCartButton).first().click();
+    } else {
+      const button = this.productViewAt(index, view).locator(this.addToCartButton);
+
+      await this.productAt(index).hover();
+      await expect(button).toBeVisible();
+      await button.click();
+    }
   }
+
   public async clickViewProductButton(index: number): Promise<void> {
     await this.productAt(index).locator(this.viewProductLink).click();
   }
